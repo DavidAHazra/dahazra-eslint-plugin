@@ -44,7 +44,11 @@ Then configure the rules you want to use under the rules section.
 ## Configurations
 
 <!-- begin auto-generated configs list -->
-TODO: Run eslint-doc-generator to generate the configs list (or delete this section if no configs are offered).
+
+|    | Name          |
+| :- | :------------ |
+| ✅  | `recommended` |
+
 <!-- end auto-generated configs list -->
 
 
@@ -53,9 +57,12 @@ TODO: Run eslint-doc-generator to generate the configs list (or delete this sect
 
 <!-- begin auto-generated rules list -->
 
-| Name                                   | Description                                                |
-| :------------------------------------- | :--------------------------------------------------------- |
-| [next-image](docs/rules/next-image.md) | Enforce required attributes on the Next.js Image component |
+💼 Configurations enabled in.\
+✅ Set in the `recommended` configuration.
+
+| Name                                   | Description                                                | 💼 |
+| :------------------------------------- | :--------------------------------------------------------- | :- |
+| [next-image](docs/rules/next-image.md) | Enforce required attributes on the Next.js Image component | ✅  |
 
 <!-- end auto-generated rules list -->
 
