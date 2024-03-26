@@ -18,12 +18,12 @@ npm install @dahazra/eslint-plugin --save-dev
 
 ## Usage
 
-Add `@dahazra/eslint-plugin` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+Add `@dahazra` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
 
 ```json
 {
     "plugins": [
-        "@dahazra/eslint-plugin"
+        "@dahazra"
     ]
 }
 ```
@@ -34,7 +34,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "@dahazra/eslint-plugin/rule-name": 2
+        "@dahazra/rule-name": 2
     }
 }
 ```
